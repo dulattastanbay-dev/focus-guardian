@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+# Optional: enables true eye-gaze tracking (eyes-on-screen detection).
+# Without it, Focus Guardian falls back to head-pose tracking.
+mediapipe>=0.10.30

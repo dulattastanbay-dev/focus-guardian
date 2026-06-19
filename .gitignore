@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+focus_log.json
+# Auto-downloaded on first run; see ensure_model() / ensure_gaze_model().
+*.onnx
+*.task
+.venv/
+venv/
+.DS_Store
