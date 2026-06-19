@@ -88,7 +88,7 @@ python focus_guardian.py --stats
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/focus-guardian.git
+git clone https://github.com/dulattastanbay-dev/focus-guardian.git
 cd focus-guardian
 pip install -r requirements.txt
 python focus_guardian.py
